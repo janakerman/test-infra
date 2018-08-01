@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "my-tf-test-bucket-112152352352355444"
+  bucket = "my-tf-test-bucket-second1"
   acl    = "private"
 
   tags {
